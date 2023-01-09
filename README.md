@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development and GUI
 - 🌱 I’m currently learning C, JAVA, PYTHON 
 - 💞️ I’m looking to collaborate with you :^)
-- 📫 Reach me through Instagram @souravjustchill 
+- 📫 Reach me through Instagram @_souravjustchill 
 
 <!---
 souravcodes1080/souravcodes1080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
