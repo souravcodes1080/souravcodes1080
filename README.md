@@ -36,7 +36,7 @@
 
 </div>
 <hr>
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My+Tech+Stack&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=2&theme=ayu&width=450&bg=%25230B0E14&titleColor=%231c9eff&line1=html%2Chtml%2Cauto%3Bcss%2Ccss%2Cauto%3Bprettir%2Cjavascript%2Cauto%3B&line2=next.js%2Cnext.js%2Cffffff%3Btypescript%2Ctypescript%2Cauto%3Bstorybook%2Cstorybook%2Cauto%3B" alt="GitHub Readme Tech Stack" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My+Tech+Stack&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=2&theme=ayu&width=450&bg=%25230B0E14&titleColor=%231c9eff&line1=html%2Chtml%2Cauto%3Bcss%2Ccss%2Cauto%3Bprettir%2Cjavascript%2Cauto%3B&line2=nextjs%2CC%2Cffffff%3Btypesript%2Cjava%2Cauto%3Bstoryboo%2Cpython%2Cauto%3B" alt="GitHub Readme Tech Stack" />
 <hr>
 <h3>:fire: My Stats :</h3>
 <br>
