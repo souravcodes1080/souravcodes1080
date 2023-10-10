@@ -20,10 +20,10 @@
 </h1>
 <hr>
 
-<h5>:fire: My Stats :</h5>h5>
+<h3>:fire: My Stats :</h3>
 <br>
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravcodes1080&theme=dark" />
+<img align="center" src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=souravcodes1080&theme=dark&date_format=%5BY%20%5DM%20j&mode=weekly&hide_current_streak=true" />
 </div>
 <hr>
 - 👋 Hi, I’m @souravcodes1080
