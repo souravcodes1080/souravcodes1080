@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<h1 salign="center">
+<h1 align="center">
   hey there 👋🏻
  
 </h1>
