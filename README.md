@@ -20,16 +20,10 @@
 </h1>
 <hr>
 
-<h3>:fire: My Stats :</h3>
-<br>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=souravcodes1080&theme=dark&date_format=%5BY%20%5DM%20j&hide_current_streak=true" alt="GitHub Streak"> 
-</div>
-<hr>
 <div align="justify">
-<p><strong>Hello there! 👋</strong> I'm a <strong>passionate</strong> computer science enthusiast currently pursuing my undergraduate degree in <strong>Computer Science and Engineering</strong> at <strong>Siliguri Institute of Technology</strong>, with an expected graduation in <strong>2025</strong>. My journey in the realm of technology has been incredibly exciting and fulfilling. During my academic tenure, I've had the opportunity to dive deep into the world of coding and explore various facets of computer science. 🎓</p>
+<p><strong>Hello there! 👋</strong> I'm a <strong>passionate</strong> computer science enthusiast 🧑🏻‍💻 currently pursuing my undergraduate degree in <strong>Computer Science and Engineering</strong> at <strong>Siliguri Institute of Technology</strong>, with an expected graduation in <strong>2025</strong>. My journey in the realm of technology has been incredibly exciting and fulfilling. During my academic tenure, I've had the opportunity to dive deep into the world of coding and explore various facets of computer science. 🎓</p>
 
-<p>I had the privilege of interning as a web developer at <strong>Groverus PVT LTD</strong>, where I honed my skills for <strong>three enriching months</strong>. My time there was a fantastic learning experience, allowing me to work on real-world projects and collaborate with industry professionals. 💼</p>
+<p> 😀 I had the privilege of interning as a web developer at <strong>Groverus PVT LTD</strong>, where I honed my skills for <strong>three enriching months</strong>. My time there was a fantastic learning experience, allowing me to work on real-world projects and collaborate with industry professionals. 💼</p>
 
 <p>My love for coding knows no bounds, and I find immense joy in creating innovative solutions and exploring new technologies. My specialization lies in the dynamic front-end frameworks, particularly <strong>React</strong> and <strong>Next.js</strong>, where I craft immersive user experiences. Additionally, I have a strong grasp of backend technologies, including <strong>Node.js</strong>, <strong>Express</strong>, and <strong>MongoDB</strong>, enabling me to build robust and scalable applications. 💻</p>
 
@@ -39,6 +33,12 @@
 
 </div>
 
+<h3>:fire: My Stats :</h3>
+<br>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=souravcodes1080&theme=dark&date_format=%5BY%20%5DM%20j&hide_current_streak=true" alt="GitHub Streak"> 
+</div>
+<hr>
 <!-- - 👋 Hi, I’m @souravcodes1080
 - 👀 I’m interested in software development and GUI
 - 🌱 I’m currently learning C, JAVA, PYTHON 
