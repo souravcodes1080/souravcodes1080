@@ -24,15 +24,17 @@
 <hr>
 
 <div align="justify">
-<p>👋 I'm a <strong>passionate</strong> computer science enthusiast 🧑🏻‍💻 currently pursuing my undergraduate degree in <strong>Computer Science and Engineering</strong> at <strong>Siliguri Institute of Technology</strong>, with an expected graduation in <strong>2025</strong>. My journey in the realm of technology has been incredibly exciting and fulfilling. During my academic tenure, I've had the opportunity to dive deep into the world of coding and explore various facets of computer science. 🎓</p>
+-👋 I'm a passionate computer science enthusiast currently pursuing my undergraduate degree in Computer Science and Engineering at Siliguri Institute of Technology, with an expected graduation in 2025. 🎓
 
-<p>😀<i> I had the privilege of interning as a web developer at <strong>Groverus PVT LTD</strong>, where I honed my skills for <strong>three enriching months</strong>. My time there was a fantastic learning experience, allowing me to work on real-world projects and collaborate with industry professionals.</i> 💼</p>
+-I had the privilege of interning as a web developer at Groverus PVT LTD for three enriching months. 💼
 
-<p>My love for coding knows no bounds, and I find immense joy in creating innovative solutions and exploring new technologies. My specialization lies in the dynamic front-end frameworks, particularly <strong>React</strong> and <strong>Next.js</strong>, where I craft immersive user experiences. Additionally, I have a strong grasp of backend technologies, including <strong>Node.js</strong>, <strong>Express</strong>, and <strong>MongoDB</strong>, enabling me to build robust and scalable applications. 💻</p>
+-My love for coding knows no bounds, specializing in dynamic front-end frameworks like React and Next.js. 💻
 
-<p><i>In my journey as a tech enthusiast, I am constantly driven by the curiosity to explore emerging technologies and contribute meaningfully to the ever-evolving tech landscape. I believe in the power of continuous learning and am always eager to expand my knowledge horizons. Whether it's developing cutting-edge web applications or delving into the intricacies of backend systems, I thrive on challenges and am dedicated to pushing the boundaries of what technology can achieve.</i> 🚀</p>
+-I have a strong grasp of backend technologies, including Node.js, Express, and MongoDB. 🛠️
 
-<p><strong>Let's connect and embark on this exciting technological journey together!</strong> 🚀</p>
+-I'm constantly driven by curiosity to explore emerging technologies and contribute meaningfully to the tech landscape. 🚀
+
+-Let's connect and embark on this exciting technological journey together! 🚀
 
 </div>
 <hr>
