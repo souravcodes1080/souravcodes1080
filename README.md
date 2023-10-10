@@ -27,7 +27,7 @@
 
 <p>My love for coding knows no bounds, and I find immense joy in creating innovative solutions and exploring new technologies. My specialization lies in the dynamic front-end frameworks, particularly <strong>React</strong> and <strong>Next.js</strong>, where I craft immersive user experiences. Additionally, I have a strong grasp of backend technologies, including <strong>Node.js</strong>, <strong>Express</strong>, and <strong>MongoDB</strong>, enabling me to build robust and scalable applications. 💻</p>
 
-<p>In my journey as a tech enthusiast, I am constantly driven by the curiosity to explore emerging technologies and contribute meaningfully to the ever-evolving tech landscape. I believe in the power of continuous learning and am always eager to expand my knowledge horizons. Whether it's developing cutting-edge web applications or delving into the intricacies of backend systems, I thrive on challenges and am dedicated to pushing the boundaries of what technology can achieve. 🚀</p>
+<p><i>In my journey as a tech enthusiast, I am constantly driven by the curiosity to explore emerging technologies and contribute meaningfully to the ever-evolving tech landscape. I believe in the power of continuous learning and am always eager to expand my knowledge horizons. Whether it's developing cutting-edge web applications or delving into the intricacies of backend systems, I thrive on challenges and am dedicated to pushing the boundaries of what technology can achieve.</i> 🚀</p>
 
 <p><strong>Let's connect and embark on this exciting technological journey together!</strong> 🚀</p>
 
