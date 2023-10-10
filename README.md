@@ -37,6 +37,7 @@
 <br>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=souravcodes1080&theme=dark&date_format=%5BY%20%5DM%20j&hide_current_streak=true" alt="GitHub Streak"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravcodes1080">
 </div>
 <hr>
 <!-- - 👋 Hi, I’m @souravcodes1080
