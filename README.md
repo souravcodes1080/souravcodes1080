@@ -24,7 +24,7 @@
 <hr>
 
 <div align="justify">
-- 💼 Intern @ Groveus PVT LTD
+
 
 - 💼 Intern @ Groveus PVT LTD
 
