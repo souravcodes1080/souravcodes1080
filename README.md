@@ -41,11 +41,9 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravcodes1080&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravcodes1080&layout=compact&theme=dark">
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souravcodes1080&show_icons=true&theme=transparent)">
-</div>
+
 <hr>
 <!-- - 👋 Hi, I’m @souravcodes1080
 - 👀 I’m interested in software development and GUI
