@@ -15,12 +15,14 @@
 </div>
 
 <h1 align="center">
-  hey there 👋🏻
+  Wassup! 👋🏻
  
 </h1>
 <hr>
-<div align="center">
+
 :fire: My Stats :
+<br>
+<div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravcodes1080&theme=dark" />
 </div>
 <hr>
