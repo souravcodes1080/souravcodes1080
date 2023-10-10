@@ -14,6 +14,10 @@
   </a>
 </div>
 
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 - 👋 Hi, I’m @souravcodes1080
 - 👀 I’m interested in software development and GUI
 - 🌱 I’m currently learning C, JAVA, PYTHON 
