@@ -27,6 +27,7 @@
 
 
 - 💼 Intern @ Groveus PVT LTD
+- - 💼 Intern @ Groveus PVT LTD
 
 - 💞️ Specializing in dynamic front-end frameworks like React and Next.js. 
 
