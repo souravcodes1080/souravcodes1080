@@ -40,9 +40,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravcodes1080&layout=compact&theme=dark">
 </div>
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravcodes1080&layout=compact&theme=dark">
-</div>
 
 <hr>
 <!-- - 👋 Hi, I’m @souravcodes1080
