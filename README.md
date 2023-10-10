@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sourav-chowdhury-892ba3229/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -14,10 +14,11 @@
   </a>
 </div>
 
-<h1 style="text-align: center">
+<h1 salign="center">
   hey there 👋🏻
  
 </h1>
+<hr>
 - 👋 Hi, I’m @souravcodes1080
 - 👀 I’m interested in software development and GUI
 - 🌱 I’m currently learning C, JAVA, PYTHON 
