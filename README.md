@@ -19,9 +19,10 @@
  
 </h1>
 <hr>
+<div align="center">
 :fire: My Stats :
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravcodes1080&theme=dark" />
-
+</div>
 <hr>
 - 👋 Hi, I’m @souravcodes1080
 - 👀 I’m interested in software development and GUI
