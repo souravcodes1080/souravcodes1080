@@ -24,7 +24,7 @@
 <hr>
 
 <div align="justify">
-- 👋 I'm a passionate computer science enthusiast. 🎓
+- 💼 Intern @ Groveus PVT LTD
 
 - 💼 Intern @ Groveus PVT LTD
 
