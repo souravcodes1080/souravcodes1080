@@ -20,7 +20,8 @@
 </h1>
 <hr>
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=souravcodes1080
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=souravcodes1080" />
+
 <hr>
 - 👋 Hi, I’m @souravcodes1080
 - 👀 I’m interested in software development and GUI
