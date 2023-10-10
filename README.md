@@ -32,7 +32,7 @@
 <p><strong>Let's connect and embark on this exciting technological journey together!</strong> 🚀</p>
 
 </div>
-
+<hr>
 <h3>:fire: My Stats :</h3>
 <br>
 <div align="center">
