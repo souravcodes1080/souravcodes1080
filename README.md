@@ -24,7 +24,7 @@
 <hr>
 
 <div align="justify">
-<p><strong>Hello there! 👋</strong> I'm a <strong>passionate</strong> computer science enthusiast 🧑🏻‍💻 currently pursuing my undergraduate degree in <strong>Computer Science and Engineering</strong> at <strong>Siliguri Institute of Technology</strong>, with an expected graduation in <strong>2025</strong>. My journey in the realm of technology has been incredibly exciting and fulfilling. During my academic tenure, I've had the opportunity to dive deep into the world of coding and explore various facets of computer science. 🎓</p>
+<p>👋 I'm a <strong>passionate</strong> computer science enthusiast 🧑🏻‍💻 currently pursuing my undergraduate degree in <strong>Computer Science and Engineering</strong> at <strong>Siliguri Institute of Technology</strong>, with an expected graduation in <strong>2025</strong>. My journey in the realm of technology has been incredibly exciting and fulfilling. During my academic tenure, I've had the opportunity to dive deep into the world of coding and explore various facets of computer science. 🎓</p>
 
 <p>😀<i> I had the privilege of interning as a web developer at <strong>Groverus PVT LTD</strong>, where I honed my skills for <strong>three enriching months</strong>. My time there was a fantastic learning experience, allowing me to work on real-world projects and collaborate with industry professionals.</i> 💼</p>
 
