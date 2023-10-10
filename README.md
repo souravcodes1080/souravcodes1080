@@ -26,7 +26,7 @@
 <div align="justify">
 
 
-- 💼 Intern @ Groveus PVT LTD
+- 🎓 Bachelors in CSE - 2025
 - 💼 Intern @ Groveus PVT LTD
 
 - 💞️ Specializing in dynamic front-end frameworks like React and Next.js. 
