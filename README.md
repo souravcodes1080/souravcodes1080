@@ -24,17 +24,15 @@
 <hr>
 
 <div align="justify">
--👋 I'm a passionate computer science enthusiast currently pursuing my undergraduate degree in Computer Science and Engineering at Siliguri Institute of Technology, with an expected graduation in 2025. 🎓
+- 👋 I'm a passionate computer science enthusiast. 🎓
 
--I had the privilege of interning as a web developer at Groverus PVT LTD for three enriching months. 💼
+- 💼 Intern @ Groveus PVT LTD
 
--My love for coding knows no bounds, specializing in dynamic front-end frameworks like React and Next.js. 💻
+- 💞️ Specializing in dynamic front-end frameworks like React and Next.js. 
 
--I have a strong grasp of backend technologies, including Node.js, Express, and MongoDB. 🛠️
+- 🛠️ Strong grasp of backend technologies, including Node.js, Express, and MongoDB. 
 
--I'm constantly driven by curiosity to explore emerging technologies and contribute meaningfully to the tech landscape. 🚀
-
--Let's connect and embark on this exciting technological journey together! 🚀
+- 🚀 Let's connect and embark on this exciting technological journey together! 
 
 </div>
 <hr>
