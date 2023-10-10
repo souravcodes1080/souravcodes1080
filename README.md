@@ -20,7 +20,7 @@
 </h1>
 <hr>
 
-:fire: My Stats :
+<h5>:fire: My Stats :</h5>h5>
 <br>
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravcodes1080&theme=dark" />
