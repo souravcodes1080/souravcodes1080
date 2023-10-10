@@ -23,7 +23,7 @@
 <h3>:fire: My Stats :</h3>
 <br>
 <div align="center">
-<img align="center" src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=souravcodes1080&theme=dark&date_format=%5BY%20%5DM%20j&mode=weekly&hide_current_streak=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=souravcodes1080&theme=dark&date_format=%5BY%20%5DM%20j&hide_current_streak=true" alt="GitHub Streak"> 
 </div>
 <hr>
 - 👋 Hi, I’m @souravcodes1080
