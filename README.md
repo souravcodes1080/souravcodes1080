@@ -27,9 +27,9 @@
 
 
 - 🎓 Bachelors in CSE - 2025
-- 💼 Intern @ Groveus PVT LTD
+- 💼 Full Stack Developer @ WOW Gateways
 
-- 💞️ Specializing in dynamic front-end frameworks like React and Next.js. 
+- 💞️ Specializing in dynamic front-end framework like React. 
 
 - 🛠️ Strong grasp of backend technologies, including Node.js, Express, and MongoDB. 
 
