@@ -28,7 +28,7 @@
 
 - 🎓 Bachelors in CSE - 2025
   
-- 💼 Intern at Groveous Informatics (July 2023 - September 2023)
+- 💼 Intern at Groveus Informatics (July 2023 - September 2023)
 
 - 💞️ Specializing in dynamic front-end framework like React. 
 
