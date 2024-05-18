@@ -89,7 +89,10 @@ Hey There! Am Sourav👋🏻
 <br>
 <br>
 <br>
-⭐️ From [souravcodes1080](https://github.com/souravcodes1080)
+
+<p align="right">
+⭐️ From <a href="https://github.com/souravcodes1080">souravcodes1080</a>
+</p>
 
 
 <!---
