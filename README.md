@@ -67,7 +67,6 @@ Hey There! Am Sourav👋🏻
 </div>
 <br>
 
-<hr>
 
 
 <h1 align="center">Get in Touch</h1>
