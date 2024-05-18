@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://res.cloudinary.com/dz0jdw5kw/image/upload/v1716052627/github/mduwbktpazjaxqxindjy.png" width="100%"/>
 </div>
-
+<br>
+<br>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -84,9 +85,12 @@ Hey There! Am Sourav👋🏻
 [![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souravch2003@gmail.com)
 </div>
 
-<div align="right">
+
+<br>
+<br>
+<br>
 ⭐️ From [souravcodes1080](https://github.com/souravcodes1080)
-</div>
+
 
 <!---
 souravcodes1080/souravcodes1080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
