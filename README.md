@@ -6,6 +6,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<br>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sourav-chowdhury-892ba3229/">
@@ -17,6 +18,10 @@
   <a href="https://www.instagram.com/_souravjustchill/">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
+<br>
+  ![GitHub Stars](https://img.shields.io/github/stars/souravcodes1080?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/souravcodes1080?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/souravcodes1080?style=social)
 </div>
 
 <h1 align="center">
