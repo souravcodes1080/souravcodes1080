@@ -70,7 +70,7 @@ Hey There! Am Sourav👋🏻
 <hr>
 
 
-
+<h1 align="center">Get in Touch</h1>
 <div id="badges" align="center">
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-chowdhury-892ba3229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
