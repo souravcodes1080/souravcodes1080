@@ -48,15 +48,17 @@ Hey There! Am Sourav👋🏻
 <div align="justify">
 
 
-- 🎓 Bachelors in CSE - 2025
+- 🎓 𝐵𝒶𝒸𝒽𝑒𝓁𝑜𝓇𝓈 𝒾𝓃 𝒞𝒮𝐸 - 𝟤𝟢𝟤𝟧
   
-- 💼 Intern at Groveus Informatics (July 2023 - September 2023)
+- 💼 𝐼𝓃𝓉𝑒𝓇𝓃 𝒶𝓉 𝒢𝓇𝑜𝓋𝑒𝓊𝓈 𝐼𝓃𝒻𝑜𝓇𝓂𝒶𝓉𝒾𝒸𝓈 (𝒥𝓊𝓁𝓎 𝟤𝟢𝟤𝟥 - 𝒮𝑒𝓅𝓉𝑒𝓂𝒷𝑒𝓇 𝟤𝟢𝟤𝟥)
 
-- 💞️ Specializing in dynamic front-end framework like React. 
+- 🏆 𝒮𝓂𝒶𝓇𝓉 𝐼𝓃𝒹𝒾𝒶 𝐻𝒶𝒸𝓀𝒶𝓉𝒽𝑜𝓃 𝒢𝓇𝒶𝓃𝒹 𝐹𝒾𝓃𝒶𝓁𝒾𝓈𝓉 - 𝟤𝟢𝟤𝟥
 
-- 🛠️ Strong grasp of backend technologies, including Node.js, Express, and MongoDB. 
+- 💞️ 𝒮𝓅𝑒𝒸𝒾𝒶𝓁𝒾𝓏𝒾𝓃𝑔 𝒾𝓃 𝒹𝓎𝓃𝒶𝓂𝒾𝒸 𝒻𝓇𝑜𝓃𝓉-𝑒𝓃𝒹 𝒻𝓇𝒶𝓂𝑒𝓌𝑜𝓇𝓀 𝓁𝒾𝓀𝑒 𝑅𝑒𝒶𝒸𝓉.
 
-- 🚀 Let's connect and embark on this exciting technological journey together! 
+- 🛠️ 𝒮𝓉𝓇𝑜𝓃𝑔 𝑔𝓇𝒶𝓈𝓅 𝑜𝒻 𝒷𝒶𝒸𝓀𝑒𝓃𝒹 𝓉𝑒𝒸𝒽𝓃𝑜𝓁𝑜𝑔𝒾𝑒𝓈, 𝒾𝓃𝒸𝓁𝓊𝒹𝒾𝓃𝑔 𝒩𝑜𝒹𝑒.𝒿𝓈, 𝐸𝓍𝓅𝓇𝑒𝓈𝓈, 𝒶𝓃𝒹 𝑀𝑜𝓃𝑔𝑜𝒟𝐵.
+
+- 🚀 𝐿𝑒𝓉'𝓈 𝒸𝑜𝓃𝓃𝑒𝒸𝓉 𝒶𝓃𝒹 𝑒𝓂𝒷𝒶𝓇𝓀 𝑜𝓃 𝓉𝒽𝒾𝓈 𝑒𝓍𝒸𝒾𝓉𝒾𝓃𝑔 𝓉𝑒𝒸𝒽𝓃𝑜𝓁𝑜𝑔𝒾𝒸𝒶𝓁 𝒿𝑜𝓊𝓇𝓃𝑒𝓎 𝓉𝑜𝑔𝑒𝓉𝒽𝑒𝓇!
 
 </div>
 
@@ -82,9 +84,9 @@ Hey There! Am Sourav👋🏻
 [![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souravch2003@gmail.com)
 </div>
 
-<p align="right">
+<div align="right">
 ⭐️ From [souravcodes1080](https://github.com/souravcodes1080)
-</p>
+</div>
 
 <!---
 souravcodes1080/souravcodes1080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
