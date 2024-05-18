@@ -16,12 +16,12 @@
 
 <h1 align="center">
 Hey There! Am Sourav👋🏻  
-</h1>h1>
+</h1>
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+a+Developer+and+a+swiftie+%E2%9C%A8+from+India"></h3>
 
 <hr>
 
-<div align="center">
+
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,7 +39,7 @@ Hey There! Am Sourav👋🏻
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-</div>
+
 
 <div align="justify">
 
