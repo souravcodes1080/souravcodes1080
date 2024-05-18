@@ -16,14 +16,13 @@
 
 <h1 align="center">
   Hey There! 👋🏻 
- 
 </h1>
-
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+a+Developer+and+a+swiftie+%E2%9C%A8+from+India"></h3>
 
 <hr>
 
 <div align="center">
+  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -57,9 +56,9 @@
 
 </div>
 <hr>
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My+Tech+Stack&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=2&theme=ayu&width=450&bg=%25230B0E14&titleColor=%231c9eff&line1=html%2Chtml%2Cauto%3Bcss%2Ccss%2Cauto%3Bprettir%2Cjavascript%2Cauto%3Bhtml%2Creactjs%2Cauto%3Bhtml%2Cnextjs%2Cauto%3B&line2=nextjs%2CC%2Cffffff%3Btypesript%2Cjava%2Cauto%3Bhtml%2Cnodejs%2Cauto%3Bhtml%2Cexpress%2Cauto%3Bhtml%2Cmongodb%2Cauto%3B" alt="GitHub Readme Tech Stack" />
-</div>
+</div> -->
 
 
 <div align="center">
