@@ -19,10 +19,10 @@
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
 <br>
-  ![GitHub Stars](https://img.shields.io/github/stars/souravcodes1080?style=social)
+</div>
+![GitHub Stars](https://img.shields.io/github/stars/souravcodes1080?style=social)
 ![GitHub Forks](https://img.shields.io/github/forks/souravcodes1080?style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/souravcodes1080?style=social)
-</div>
 
 <h1 align="center">
 Hey There! Am Sourav👋🏻  
