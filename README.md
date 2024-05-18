@@ -20,9 +20,11 @@
   </a>
 <br>
 </div>
+<div align="center">
+
 ![GitHub Stars](https://img.shields.io/github/stars/souravcodes1080?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/souravcodes1080?style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/souravcodes1080?style=social)
+</div>
 
 <h1 align="center">
 Hey There! Am Sourav👋🏻  
