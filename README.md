@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/dz0jdw5kw/image/upload/v1716052335/github/px0sj53gvxgieyunfhbr.jpg" width="80%"/>
+  <img src="https://res.cloudinary.com/dz0jdw5kw/image/upload/v1716052627/github/mduwbktpazjaxqxindjy.png" width="100%"/>
 </div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
